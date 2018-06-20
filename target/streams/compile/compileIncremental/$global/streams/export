@@ -1,0 +1,1 @@
+scalac -classpath /Users/peterwills/IdeaProjects/sbtTestProject/target/scala-2.12/classes -bootclasspath /Users/peterwills/.sbt/boot/scala-2.12.6/lib/scala-library.jar /Users/peterwills/IdeaProjects/sbtTestProject/src/main/scala/BinarySearchTree.scala

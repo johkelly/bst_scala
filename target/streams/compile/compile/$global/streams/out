@@ -1,0 +1,40 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/peterwills/IdeaProjects/sbtTestProject/src/main/scala/Main.scala:19:16: not found: type TreeNode[0m
+[0m[[0m[31merror[0m] [0m[0m  var t0 = new TreeNode(key=0)[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/peterwills/IdeaProjects/sbtTestProject/src/main/scala/Main.scala:19:25: not found: value key[0m
+[0m[[0m[31merror[0m] [0m[0m  var t0 = new TreeNode(key=0)[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/peterwills/IdeaProjects/sbtTestProject/src/main/scala/Main.scala:20:16: not found: type TreeNode[0m
+[0m[[0m[31merror[0m] [0m[0m  var t1 = new TreeNode(key=1)[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/peterwills/IdeaProjects/sbtTestProject/src/main/scala/Main.scala:20:25: not found: value key[0m
+[0m[[0m[31merror[0m] [0m[0m  var t1 = new TreeNode(key=1)[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/peterwills/IdeaProjects/sbtTestProject/src/main/scala/Main.scala:21:16: not found: type TreeNode[0m
+[0m[[0m[31merror[0m] [0m[0m  var t2 = new TreeNode(key=2)[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/peterwills/IdeaProjects/sbtTestProject/src/main/scala/Main.scala:21:25: not found: value key[0m
+[0m[[0m[31merror[0m] [0m[0m  var t2 = new TreeNode(key=2)[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/peterwills/IdeaProjects/sbtTestProject/src/main/scala/Main.scala:22:16: not found: type TreeNode[0m
+[0m[[0m[31merror[0m] [0m[0m  var t3 = new TreeNode(key=3)[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/peterwills/IdeaProjects/sbtTestProject/src/main/scala/Main.scala:22:25: not found: value key[0m
+[0m[[0m[31merror[0m] [0m[0m  var t3 = new TreeNode(key=3)[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/peterwills/IdeaProjects/sbtTestProject/src/main/scala/Main.scala:23:16: not found: type TreeNode[0m
+[0m[[0m[31merror[0m] [0m[0m  var t4 = new TreeNode(key=4)[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/peterwills/IdeaProjects/sbtTestProject/src/main/scala/Main.scala:23:25: not found: value key[0m
+[0m[[0m[31merror[0m] [0m[0m  var t4 = new TreeNode(key=4)[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/peterwills/IdeaProjects/sbtTestProject/src/main/scala/Main.scala:24:16: not found: type TreeNode[0m
+[0m[[0m[31merror[0m] [0m[0m  var t5 = new TreeNode(key=5)[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/peterwills/IdeaProjects/sbtTestProject/src/main/scala/Main.scala:24:25: not found: value key[0m
+[0m[[0m[31merror[0m] [0m[0m  var t5 = new TreeNode(key=5)[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/peterwills/IdeaProjects/sbtTestProject/src/main/scala/Main.scala:75:15: not found: type BinarySearchTree[0m
+[0m[[0m[31merror[0m] [0m[0m  var b = new BinarySearchTree()[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m13 errors found[0m
