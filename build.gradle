@@ -6,6 +6,7 @@
  */
 
 plugins {
+    id 'application'
     id 'scala'
     id 'java'
 }
@@ -17,3 +18,5 @@ repositories {
 dependencies {
     compile 'org.scala-lang:scala-library:2.11.8'
 }
+
+mainClassName = 'Main'
